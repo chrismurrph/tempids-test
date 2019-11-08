@@ -1,6 +1,6 @@
 {:paths   ["src" "resources"]
 
- :deps    {com.fulcrologic/fulcro              {:mvn/version "3.0.6"}
+ :deps    {com.fulcrologic/fulcro              {:mvn/version "3.0.8"} ;; "3.0.6" can be okay, "3.0.8" always fails on my machine
            com.fulcrologic/guardrails          {:mvn/version "0.0.9"}
            com.fulcrologic/fulcro-garden-css   {:mvn/version "3.0.6"}
            ring/ring-core                      {:mvn/version "1.7.1"}

@@ -2,7 +2,6 @@
   (:require
     [app.mount-point :as mount]
     [app.root :as root]
-    [app.ui :as ui]
     [com.fulcrologic.fulcro.application :as app]
     [com.fulcrologic.fulcro.components :refer [defsc]]
     [com.fulcrologic.fulcro.mutations :refer [defmutation]]
